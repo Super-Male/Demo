@@ -2,6 +2,6 @@ package com.it.shh.dao.impl;
 
 public class HelloWorld {
 	public static void main(String [] args){
-		System.out.println("HelloWorld第二次");
+		System.out.println("HelloWorld第三次");
 	}
 }
